@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+drawable audio_book_icon_background
+drawable audio_book_icon_foreground
+drawable border_white
+font montserrat_black
+font myriadpro_regular
+id action_add
+id btnBack5
+id btnFwd5
+id btnNext
+id btnPlay
+id btnPrev
+id list
+id nowTitle
+id seek
+id spinner
+id txtCur
+id txtTotal
+layout activity_main
+menu main_menu
+mipmap audio_book_icon
+mipmap audio_book_icon_foreground
+mipmap audio_book_icon_round
+style AppTheme
+style MyActionBar
+style MyActionBarTitle
